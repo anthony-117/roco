@@ -1,0 +1,29 @@
+# Deep Learning Frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.35.0
+
+# Model Optimization
+peft>=0.7.0
+bitsandbytes>=0.41.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Data Processing
+pandas>=2.0.0
+pyspark>=3.5.0
+
+# Training and Evaluation
+accelerate>=0.24.0
+datasets>=2.14.0
+
+# Jupyter (if running in notebook environment)
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Ollama Python SDK
+ollama>=0.1.0
